@@ -1,0 +1,96 @@
+Religion Type,Value (Thousands),Marital Status,Gender
+No Religion,128.9,Single,Male
+With Religion,404.3,Single,Male
+Buddhism,160.6,Single,Male
+Taoism,45.4,Single,Male
+Islam,84.3,Single,Male
+Hinduism,18.8,Single,Male
+Sikhism,1.5,Single,Male
+Christianity,92.4,Single,Male
+Catholic,33.5,Single,Male
+Other Christians,58.9,Single,Male
+Other Religions,1.3,Single,Male
+Total,501.3,Single,Female
+No Religion,107.6,Single,Female
+With Religion,393.8,Single,Female
+Buddhism,149.4,Single,Female
+Taoism,42.2,Single,Female
+Islam,70.8,Single,Female
+Hinduism,17.3,Single,Female
+Sikhism,1.7,Single,Female
+Christianity,111.2,Single,Female
+Catholic,37.1,Single,Female
+Other Christians,74.1,Single,Female
+Other Religions,1.1,Single,Female
+Total,984.7,Married,Male
+No Religion,175.4,Married,Male
+With Religion,809.4,Married,Male
+Buddhism,336.6,Married,Male
+Taoism,107.3,Married,Male
+Islam,129.9,Married,Male
+Hinduism,60.2,Married,Male
+Sikhism,3.5,Married,Male
+Christianity,169.3,Married,Male
+Catholic,60.0,Married,Male
+Other Christians,109.3,Married,Male
+Other Religions,2.6,Married,Male
+Total,960.9,Married,Female
+No Religion,155.7,Married,Female
+With Religion,805.2,Married,Female
+Buddhism,333.2,Married,Female
+Taoism,95.4,Married,Female
+Islam,128.3,Married,Female
+Hinduism,53.4,Married,Female
+Sikhism,3.4,Married,Female
+Christianity,189.4,Married,Female
+Catholic,69.3,Married,Female
+Other Christians,120.1,Married,Female
+Other Religions,2.2,Married,Female
+Total,28.9,Widowed,Male
+No Religion,4.2,Widowed,Male
+With Religion,24.8,Widowed,Male
+Buddhism,10.3,Widowed,Male
+Taoism,4.2,Widowed,Male
+Islam,5.2,Widowed,Male
+Hinduism,0.9,Widowed,Male
+Sikhism,na,Widowed,Male
+Christianity,4.1,Widowed,Male
+Catholic,1.5,Widowed,Male
+Other Christians,2.6,Widowed,Male
+Other Religions,na,Widowed,Male
+Total,143.2,Widowed,Female
+No Religion,10.6,Widowed,Female
+With Religion,132.6,Widowed,Female
+Buddhism,54.3,Widowed,Female
+Taoism,22.8,Widowed,Female
+Islam,20.4,Widowed,Female
+Hinduism,7.0,Widowed,Female
+Sikhism,0.9,Widowed,Female
+Christianity,26.8,Widowed,Female
+Catholic,10.2,Widowed,Female
+Other Christians,16.6,Widowed,Female
+Other Religions,0.4,Widowed,Female
+Total,42.7,Divorced,Male
+No Religion,8.7,Divorced,Male
+With Religion,34,Divorced,Male
+Buddhism,14.9,Divorced,Male
+Taoism,3.8,Divorced,Male
+Islam,6.6,Divorced,Male
+Hinduism,1.5,Divorced,Male
+Sikhism,0.2,Divorced,Male
+Christianity,6.9,Divorced,Male
+Catholic,3.1,Divorced,Male
+Other Christians,3.8,Divorced,Male
+Other Religions,na,Divorced,Male
+Total,80.9,Divorced,Female
+No Religion,13.4,Divorced,Female
+With Religion,67.5,Divorced,Female
+Buddhism,28.0,Divorced,Female
+Taoism,5.2,Divorced,Female
+Islam,14.4,Divorced,Female
+Hinduism,3.5,Divorced,Female
+Sikhism,0.3,Divorced,Female
+Christianity,15.9,Divorced,Female
+Catholic,6.2,Divorced,Female
+Other Christians,9.7,Divorced,Female
+Other Religions,0.2,Divorced,Female
